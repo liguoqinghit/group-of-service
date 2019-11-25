@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="gexf">
+    <serverData>
+      <paths name="gexf">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/graph_service" local="$PROJECT_DIR$" web="/graph_service" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
