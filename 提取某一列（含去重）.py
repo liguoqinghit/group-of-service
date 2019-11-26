@@ -17,11 +17,11 @@ def drop_duplicate_column(filename, dup_column, filename2):
     print("提取完毕")
 
 
-# filename = "食物.csv"
-# dup_column = 2
-# filename2 = "食物关系.csv"
-filename = "旅游.csv"
+filename = "食物.csv"
 dup_column = 2
-filename2 = "旅游关系.csv"
+filename2 = "食物关系.csv"
+# filename = "旅游.csv"
+# dup_column = 2
+# filename2 = "旅游关系.csv"
 drop_duplicate_column(filename, dup_column, filename2)
 
